@@ -1,0 +1,55 @@
+/* CSS Document */
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.Content{
+	width: 710px;
+	margin: 5px auto;
+}
+.Content h3{
+	width: 710px;
+	text-align: center;
+	background: #599ECE;
+	padding-top: 5px;
+	color: #000000;
+	border-radius: 20px 20px 0 0;
+}
+.Content h2{
+	width: 710px;
+	text-align: center;
+	background: #599ECE;
+	color: aliceblue;
+	margin-bottom: 10px;
+	padding-bottom: 5px;
+}
+.Ketqua{
+	width: 710px;
+	margin: 2px;
+	background: #FFFFFF;
+}
+.Ketqua .chitiethv{
+	width: 320px;
+	float: left;
+	margin: 10px;
+	padding-left: 10px;
+	border: 1px solid #599ECE;
+}
+.Ketqua .chitiethv h4{
+	float: left;
+	background: #599ECE;
+	color: aliceblue;
+	width: 300px;
+	font-size: 12px;
+	padding: 3px 5px;
+}
+.Ketqua .chitiethv p{
+	width: 320px;
+	float: left;
+	text-align: center;
+	font-weight: bold;
+	font-size: 15px;
+	font-style: italic;
+	padding: 8px 0;
+	text-transform:uppercase;
+}

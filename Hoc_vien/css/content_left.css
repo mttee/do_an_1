@@ -1,0 +1,45 @@
+/* CSS Document */
+*{
+	margin:0px;
+	padding:0px;
+}
+.content_left{
+	width: 140px;
+	float:left;
+	background:#FFF;
+}
+.content_left h3{
+	background:url(../images/Hocvien/chucnangtructuyen.png) top center no-repeat;
+	width:140px;
+	height:30px;
+	color:#FFF;
+	padding: 8px 0;
+	text-align:center;
+}
+.content_left h4{
+	text-decoration:underline;
+	float:left;
+	font-size:12px;
+	margin:0px 0px 5px 5px;
+}
+.content_left input{
+	border-radius: 5px;
+	margin: 0 3px;
+	width: 130px;
+	margin-bottom: 5px;
+}
+.content_left a{
+	width: 140px;
+	color:#000;
+	font-size:11px;
+	padding: 5px 0px;
+	padding-left: 5px;
+	float: left;
+	font-weight:bold;
+	text-decoration:none;
+	border-top: 1px solid #85BFE8 ;
+}
+.content_left a:hover{
+	color: #005B7F;
+	font-size: 12px;
+}

@@ -1,0 +1,48 @@
+/* CSS Document */
+*{
+	margin:0px;
+	padding:0px;
+}
+
+.navigation_bar{
+	background:url(../images/Hocvien/webdev_0006s_0007_Rectangle-3.png) top center no-repeat;
+	width: 1000px;
+	height:40px;
+	margin: 0px auto;
+}
+.navigation_bar .Home{
+	float:left;
+}
+.navigation_bar .Home a img{
+	width:30px;
+	height:25px;
+	margin:5px 0px 5px 20px;
+}
+.navigation_bar .Home a img:hover{
+	width: 35px;
+	height: 30px;
+}
+.navigation_bar .Menu{
+	float:left;
+	margin-left: 20px;
+	width: 900px;
+}
+.navigation_bar .Menu li{
+	display: inline;
+	float: left;
+	height: 40px;
+}
+.navigation_bar .Menu a{
+	font-size:13px;
+	font-weight:bold;
+	color:#FFF;
+	padding: 10px 20px;
+	float:left;
+	text-decoration:none;
+	height: 20px;
+	border-left: 1px solid #FFF9F9;
+}
+.navigation_bar .Menu a:hover{
+	color: #005b7f;
+	background: #FDFCFC;
+}

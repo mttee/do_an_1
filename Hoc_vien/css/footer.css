@@ -1,0 +1,14 @@
+/* CSS Document */
+*{
+	margin:0px;
+	padding:0px;
+}
+.footer{
+	width: 1000px;
+	margin:0px auto;
+}
+.footer img {
+	width:1000px;
+	height: 85px;
+	margin: 0px auto;
+}

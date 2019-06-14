@@ -1,0 +1,68 @@
+/* CSS Document */
+*{
+	margin:0px;
+	padding:0px;
+}
+.content_right{
+	width:140px;
+	float:right;
+}
+.content_right .Taikhoan{
+	float:right;
+	width:140px;
+	background:#FFF;
+}
+.content_right .Taikhoan h3{
+	background:url(../images/Hocvien/chucnangtructuyen.png) top center no-repeat;
+	width:140px;
+	height:25px;
+	color:#FFF;
+	padding-top: 8px;
+	text-align:center;
+}
+.content_right .Taikhoan a{
+	text-align: center;
+	text-decoration:none;
+	margin: 2px 0px 5px 5px;
+	padding: 5px;
+	float:left;
+	color:#FFF;
+	font-size:12px;
+	background: #005b7f;
+	width: 120px;
+	font-weight: bold;
+}
+.content_right .Taikhoan a:hover{
+	color: #FFFFFF;
+	background: #599ECE;
+	font-size: 14px;
+}
+.content_right .Chucnang{
+	width: 140px;
+	float:right;
+	background:#FFF;
+	margin-top: 5px;
+}
+.content_right .Chucnang h3{
+	background:url(../images/Hocvien/chucnangtructuyen.png) top center no-repeat;
+	width:140px;
+	height:25px;
+	color:#FFF;
+	padding-top: 8px;
+	text-align:center;
+}
+.content_right .Chucnang a{
+	font-size: 11px;
+	width: 110px;
+	color:#000;
+	padding: 5px 15px;
+	float: left;
+	font-weight:bold;
+	text-decoration:none;
+	text-align: left;
+	border-bottom: 1px solid #599ECE;
+}
+.content_right .Chucnang a:hover{
+	color: #005B7F;
+	font-size: 12px;
+}

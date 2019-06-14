@@ -1,0 +1,26 @@
+/* CSS Document */
+*{
+	margin:0px;
+	padding:0px;
+}
+.content_central{
+	width:710px;
+	float:left;
+	margin: 5px;
+	background: #FFFFFF;
+	border-radius: 20px;
+}
+.content_central h3{
+	background: #599ece;
+	width: 710px;
+	height: 20px;
+	padding-top: 5px;
+	text-align:center;
+	font-size: 15px;
+	color:#FFFFFF;
+}
+.content_central .Table_ketqua{
+	margin: 10px auto;
+	text-align: center;
+	font-size: 11px;
+}

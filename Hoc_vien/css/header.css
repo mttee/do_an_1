@@ -1,0 +1,23 @@
+/* CSS Document */
+*{
+	margin:0px;
+	padding:0px;
+}
+body{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+	background:url(../images/Hocvien/webdev_0010s_0001_Rectangle-9.png);
+}
+.Main{
+	width: 1000px;
+	margin: 0px auto;
+}
+.header{
+	width: 1000px;
+	margin: 0px auto;
+}
+.header img {
+	width:1000px;
+	height: 85px;
+	margin: 0px auto;
+}

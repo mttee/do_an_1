@@ -1,0 +1,112 @@
+/* CSS Document */
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.Content_yeucau{
+	width: 710px;
+	margin: 0px auto;
+}
+.Content_yeucau h3{
+	width: 710px;
+	text-align: center;
+	background: #599ECE;
+	padding: 15px 0px;
+	margin: 5px auto;
+	color: #000000;
+	border-radius: 20px 20px 0 0;
+}
+.Content_yeucau form{
+	width: 710px;
+}
+.Content_yeucau form .thongtincanhan{
+	width: 610px;
+	margin: 20px auto;
+	border: 5px solid #599ECE;
+	border-radius: 10px;
+}
+.Content_yeucau form .thongtincanhan h4{
+	width: 150px;
+	text-align: center;
+	background: #599ECE;
+	padding-bottom: 5px;
+	color:#FFFFFF;
+	font-size: 12px;
+	border-bottom-right-radius: 10px;
+}
+.Content_yeucau form .thongtincanhan div{
+	width: 600px;
+	height: 40px;
+	margin: 20px auto;
+}
+.Content_yeucau form .thongtincanhan div p{
+	width: 570px;
+	background: #599ECE;
+	text-align: center;
+	margin: 0px auto;
+	padding: 2px;
+    font-size: 12px;
+    color: aliceblue;
+    font-weight: bold;
+}
+.Content_yeucau form .thongtincanhan div input{
+	float: left;
+	padding-left: 5px;
+	width: 590px;
+	height: 25px;
+	text-align: center;
+}
+.Content_yeucau form .ketqua{
+	width: 610px;
+	margin: 20px auto;
+	border: 5px solid #599ECE;
+	border-radius: 10px;
+}
+.Content_yeucau form .ketqua h4{
+	width: 150px;
+	text-align: center;
+	background: #599ECE;
+	padding-bottom: 5px;
+	color:#FFFFFF;
+	font-size: 12px;
+	border-bottom-right-radius: 10px;
+}
+.Content_yeucau form .ketqua div{
+	width: 600px;
+	height: 40px;
+	margin: 20px auto;
+}
+.Content_yeucau form .ketqua div p{
+	width: 570px;
+	background: #599ECE;
+	text-align: center;
+	margin: 0px auto;
+	padding: 2px;
+    font-size: 12px;
+    color: aliceblue;
+    font-weight: bold;
+}
+.Content_yeucau form .ketqua div input{
+	float: left;
+	padding-left: 5px;
+	width: 590px;
+	height: 25px;
+	text-align: center;
+}
+.Xacnhan{
+	width: 300px;
+	height: 60px;
+	margin: 20px auto;
+}
+.Xacnhan p{
+	width: 300px;
+	font-size: 15px;
+	float: left;
+}
+.Xacnhan p input{
+	margin: 10px 10px 5px 25px;
+}
+#button{
+	margin: 10px 100px;
+	width: 100px;
+}
